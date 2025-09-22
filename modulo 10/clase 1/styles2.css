@@ -1,0 +1,137 @@
+/** 🎨 Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5; /* fondo claro */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/** (2) Barra superior */
+.header {
+    background-color: #00271d;
+    color: white;
+    padding: 5px 15px;
+    font-size: 16px;
+    text-align: left;
+}
+
+/** (3) Menú de navegación */
+.navbar {
+    background-color: #004030;
+    color: white;
+    padding: 10px 0;
+}
+
+.navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.navbar ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.navbar ul li a:hover {
+    color: #12aff4;
+}
+
+/** Layout principal con sidebar */
+.layout {
+    display: flex;
+    flex: 1;
+}
+
+/** (7) Barra lateral */
+.sidebar {
+    background-color: #013024;
+    color: white;
+    padding: 20px;
+    width: 200px;
+    height: 100vh; /* ocupa todo el alto */
+    position: sticky;
+    top: 0;
+}
+
+.sidebar h3 {
+    font-size: 1.2em;
+    margin-bottom: 15px;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar ul li {
+    margin: 10px 0;
+}
+
+.sidebar ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.sidebar ul li a:hover {
+    color: #12aff4;
+}
+
+/** (4) Secciones principales */
+main {
+    flex: 1;
+    padding: 20px;
+}
+
+/** Bloques generales */
+.seccion {
+    background: white;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #ccc; /* borde plomo claro */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/** Efecto hover */
+.seccion:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/** Títulos de secciones SIN FONDO */
+.seccion__titulo {
+    font-size: 1.4em;
+    font-weight: bold;
+    margin-bottom: 15px;
+    padding: 8px 0;
+    color: #333333;                /* texto gris oscuro */
+    border-bottom: 2px solid #cccccc; /* línea ploma */
+    background: transparent;       /* sin fondo */
+}
+
+/** Grid para las secciones inferiores */
+.secciones-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+/** (6) Footer */
+.footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #00271d;
+    color: white;
+    font-size: 0.9em;
+    margin-top: auto;
+}
