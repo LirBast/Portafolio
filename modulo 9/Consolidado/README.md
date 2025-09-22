@@ -28,8 +28,7 @@ Eres parte de un equipo de analistas de datos encargado de estudiar las tendenci
 
 ## 🛠️ Tecnologías usadas
 - Python + Google Colab
-- 📓 [Abrir en Google Colab](https://colab.research.google.com/drive/M9_consolidado.ipynb)
-  
+ 
 - **Apache Spark / PySpark** (RDDs, DataFrames, Spark SQL, MLlib)  
 - Machine Learning con **Logistic Regression** en MLlib  
 
