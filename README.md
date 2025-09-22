@@ -17,14 +17,14 @@ Ingeniero Civil Industrial con formación en estadística, programación en Pyth
 
 | Módulo | Tema | Descripción | Link |
 |--------|------|-------------|------|
-| **2** | 📈 Estadística descriptiva | Análisis de un dataset real aplicando medidas de tendencia central, dispersión y visualizaciones. | [Módulo 2](./Modulo%202) |
-| **3** | 🎲 Probabilidades y distribuciones | Aplicación de distribuciones de probabilidad, simulaciones y teorema del límite central. | [Módulo 3](./modulo%203) |
-| **4** | 📊 Inferencia estadística | Pruebas de hipótesis e intervalos de confianza aplicados a muestras de datos. | [Módulo 4](./modulo%204/Consolidado) |
-| **5** | 🧪 Diseño de experimentos | Evaluación de un programa de tutoría con análisis de medias, pruebas t y visualizaciones. | [Módulo 5](./modulo%205/Consolidado) |
-| **6** | 🌱 Machine Learning supervisado | Modelos de regresión y clasificación para analizar el impacto del cambio climático en la agricultura. | [Módulo 6](./modulo%206/consolidado) |
-| **7** | 🎵 Machine Learning no supervisado | Clústeres de preferencias musicales globales con K-Means, jerárquico, DBSCAN, PCA y t-SNE. | [Módulo 7](./modulo%207/Consolidado) |
-| **8** | 🧠 Redes Neuronales | Predicción de tasas de natalidad usando redes neuronales en Keras, con regularización y optimización. | [Módulo 8](./modulo%208/Consolidado) |
-| **9** | 🌍 Big Data con Spark | Análisis de migraciones humanas con PySpark: RDDs, DataFrames, SQL y MLlib. | [Módulo 9](./modulo%209/Consolidado) |
+| **2** | 📈 Estadística descriptiva | Análisis de un dataset real aplicando medidas de tendencia central, dispersión y visualizaciones. | [Módulo 2](https://github.com/LirBast/Portafolio/tree/portafolio/Modulo%202) |
+| **3** | 🎲 Probabilidades y distribuciones | Aplicación de distribuciones de probabilidad, simulaciones y teorema del límite central. | [Módulo 3](https://github.com/LirBast/Portafolio/tree/portafolio/modulo%203) |
+| **4** | 📊 Inferencia estadística | Pruebas de hipótesis e intervalos de confianza aplicados a muestras de datos. | [Módulo 4](https://github.com/LirBast/Portafolio/tree/portafolio/modulo%204/Consolidado) |
+| **5** | 🧪 Diseño de experimentos | Evaluación de un programa de tutoría con análisis de medias, pruebas t y visualizaciones. | [Módulo 5](https://github.com/LirBast/Portafolio/tree/portafolio/modulo%205/Consolidado) |
+| **6** | 🌱 Machine Learning supervisado | Modelos de regresión y clasificación para analizar el impacto del cambio climático en la agricultura. | [Módulo 6](https://github.com/LirBast/Portafolio/tree/portafolio/modulo%206/consolidado) |
+| **7** | 🎵 Machine Learning no supervisado | Clústeres de preferencias musicales globales con K-Means, jerárquico, DBSCAN, PCA y t-SNE. | [Módulo 7](https://github.com/LirBast/Portafolio/tree/portafolio/modulo%207/Consolidado) |
+| **8** | 🧠 Redes Neuronales | Predicción de tasas de natalidad usando redes neuronales en Keras, con regularización y optimización. | [Módulo 8](https://github.com/LirBast/Portafolio/tree/portafolio/modulo%208/Consolidado) |
+| **9** | 🌍 Big Data con Spark | Análisis de migraciones humanas con PySpark: RDDs, DataFrames, SQL y MLlib. | [Módulo 9](https://github.com/LirBast/Portafolio/tree/portafolio/modulo%209/Consolidado) |
 
 ---
 
