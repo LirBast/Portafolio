@@ -50,4 +50,4 @@ Mi objetivo es seguir ampliando estos proyectos, integrando datasets más grande
 ---
 
 ✍️ *Autor: Liroy Cataldo*  
-📧 Contacto: *(puedes agregar tu email o LinkedIn aquí)*  
+📧 Contacto: liroybast@gmail.com*  
