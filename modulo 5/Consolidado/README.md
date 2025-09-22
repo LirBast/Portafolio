@@ -51,7 +51,13 @@ Algunas de las visualizaciones generadas en este módulo:
 ![Histograma Grupo B](img/mod5_histograma_b.png)  
 ![Boxplot comparativo](img/mod5_boxplot.png)  
 
+## 📝 Reflexiones del Ejercicio
+- 📌 El diseño experimental puede mejorarse aumentando la muestra, midiendo el desempeño previo de los estudiantes y garantizando la asignación aleatoria.  
+- 📌 Si la división de grupos no fue completamente aleatoria, los resultados pueden estar sesgados.  
+- 📌 La prueba t mostró un valor p significativamente menor que 0.05, lo que confirma que la tutoría tiene un **impacto positivo y real** en el rendimiento.  
+- 📌 El intervalo de confianza sugiere que la mejora promedio está entre **8 y 14 puntos**, lo que da evidencia sólida de la efectividad del programa.  
+- 📌 A pesar de los buenos resultados, se recomienda reforzar el diseño experimental para asegurar que la diferencia observada se deba únicamente al programa de tutoría.  
+
 ---
 
 ✍️ *Autor: Liroy Cataldo*
-
