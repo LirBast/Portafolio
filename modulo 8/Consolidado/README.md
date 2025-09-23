@@ -30,23 +30,23 @@ El objetivo fue aplicar **redes neuronales artificiales (ANN)** para modelar la 
 
 ## 📋 Requerimientos implementados
 
-1. **📊 Carga y exploración de datos (1 punto)**  
+1. **📊 Carga y exploración de datos **  
    - Carga del dataset con variables socioeconómicas.  
    - Análisis descriptivo, detección de nulos y correlaciones.  
    - Visualización mediante **heatmap**.  
 
-2. **🧠 Diseño y entrenamiento del modelo (5 puntos)**  
+2. **🧠 Diseño y entrenamiento del modelo**  
    - Red neuronal con capas densas y activaciones `relu` y `tanh`.  
    - Evaluación de distintos optimizadores (`Adam`, `SGD`).  
    - Aplicación de regularización: **Dropout** y **L2**.  
    - Comparación de configuraciones con métricas de pérdida en validación.  
 
-3. **⚙️ Evaluación y optimización del modelo (3 puntos)**  
+3. **⚙️ Evaluación y optimización del modelo**  
    - Métricas de evaluación: **MSE, MAE y R²**.  
    - Comparación de resultados en datos de prueba.  
    - Predicciones vs. valores reales.  
 
-4. **📑 Análisis de resultados y reflexión final (1 punto)**  
+4. **📑 Análisis de resultados y reflexión final**  
    - Identificación de variables influyentes en la natalidad.  
    - Relación de hallazgos con tendencias demográficas globales.  
    - Propuestas de mejora para optimización futura.  
