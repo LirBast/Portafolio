@@ -5,13 +5,8 @@ El objetivo fue aplicar **redes neuronales artificiales (ANN)** para modelar la 
 
 ---
 
-## 📘 Enunciado
+## 🎯 Objetivos
 
-**EVALUACIÓN FINAL: PREDICCIÓN DE NATALIDAD SEGÚN FACTORES SOCIOECONÓMICOS**  
-
-Eres parte de un equipo de investigación en demografía y te han solicitado desarrollar un modelo basado en redes neuronales para predecir la tasa de natalidad en distintos países. Para ello, contarás con un dataset que incluye información socioeconómica como el PIB per cápita, el acceso a servicios de salud, la tasa de educación y otros factores relevantes.  
-
-**Objetivos de la evaluación:**
 1. Diseñar y entrenar una red neuronal para resolver un problema de regresión.  
 2. Aplicar conocimientos sobre funciones de activación, optimizadores y estrategias para prevenir sobreajuste.  
 3. Evaluar y comparar los resultados obtenidos con diferentes configuraciones de la red.  
