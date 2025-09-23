@@ -36,23 +36,23 @@ Eres parte de un equipo de analistas de datos encargado de estudiar las tendenci
 
 ## 📋 Requerimientos implementados
 
-1. **📊 Carga y exploración de datos (2 puntos)**  
+1. **📊 Carga y exploración de datos **  
    - Carga del dataset con información migratoria.  
    - Conversión a **RDD y DataFrame**.  
    - Exploración: primeras filas, esquema y estadísticas descriptivas.  
 
-2. **⚙️ Procesamiento de datos con RDDs y DataFrames (3 puntos)**  
+2. **⚙️ Procesamiento de datos con RDDs y DataFrames **  
    - Transformaciones en RDDs: `filter`, `map`, `flatMap`.  
    - Acciones en RDDs: `take`, `count`, `collect`.  
    - Operaciones en DataFrames: filtrado, agregaciones y ordenamiento.  
    - Exportación de resultados en **formato Parquet**.  
 
-3. **🗂️ Consultas con Spark SQL (2 puntos)**  
+3. **🗂️ Consultas con Spark SQL **  
    - Registro del DataFrame como **tabla temporal**.  
    - Consultas de los principales países de origen y destino.  
    - Análisis de las principales **razones de migración por región**.  
 
-4. **🤖 Aplicación de MLlib para predicción (3 puntos)**  
+4. **🤖 Aplicación de MLlib para predicción **  
    - Conversión de datos en vectores de características (`VectorAssembler`).  
    - Entrenamiento de un modelo de **Regresión Logística**.  
    - Evaluación de precisión del modelo.  
