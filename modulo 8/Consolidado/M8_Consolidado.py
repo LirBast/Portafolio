@@ -74,7 +74,7 @@ model = Sequential([
 ])
 model.compile(optimizer='adam', loss='mean_squared_error')
 
-epocas = 150
+epocas = 50
 funcion_pare = EarlyStopping(monitor='val_loss', patience=5, restore_best_weights=True)
 
 historial_base = model.fit(X_train_scaled, y_train,
