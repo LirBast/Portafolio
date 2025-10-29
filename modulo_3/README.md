@@ -43,13 +43,6 @@ El objetivo fue aplicar técnicas de **limpieza, transformación y análisis de 
 - Se calcularon indicadores como media, mediana y PIB promedio.  
 - Se obtuvo la distribución de migrantes por razones (económica, conflicto, educativa).  
 
-## 📊 Visualizaciones
-Algunos de los resultados esperados del análisis incluyen:  
-
-![Distribución de migrantes](img/migracion_distribucion.png)  
-![Boxplot para outliers](img/migracion_outliers.png)  
-![Comparación de IDH](img/migracion_idh.png)  
-
 ---
 
 ✍️ *Autor: Liroy Cataldo*
