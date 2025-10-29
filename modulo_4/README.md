@@ -47,15 +47,27 @@ El objetivo fue **analizar patrones de rendimiento deportivo**, identificar fact
 - No se detectaron *outliers* relevantes en la variable peso.  
 - Se identificaron patrones de medallas en distintas disciplinas deportivas.  
 
-## 📊 Visualizaciones
+## 📊 Visualizaciones  
+
 Algunas de las visualizaciones generadas en este módulo:  
 
-![Figura 1](imagenes/Figure_1.png)
-![Figura 2](imagenes/Figure_2.png)
-![Figura 3](imagenes/Figure_3.png)
-![Figura 4](imagenes/Figure_4.png)
-![Figura 5](imagenes/Figure_5.png)
-![Figura 6](imagenes/Figure_6.png)
+- **Figura 1:** Histograma de entrenamientos semanales  
+  ![Figura 1](imagenes/Figure_1.png)
+
+- **Figura 2:** Boxplot de peso  
+  ![Figura 2](imagenes/Figure_2.png)
+
+- **Figura 3:** Gráfico de dispersión (Peso vs Medallas)  
+  ![Figura 3](imagenes/Figure_3.png)
+
+- **Figura 4:** Regresión lineal (Entrenamientos vs Medallas)  
+  ![Figura 4](imagenes/Figure_4.png)
+
+- **Figura 5:** Matriz de correlación  
+  ![Figura 5](imagenes/Figure_5.png)
+
+- **Figura 6:** Boxplot de medallas totales por disciplina deportiva  
+  ![Figura 6](imagenes/Figure_6.png)
 
 
 ---
