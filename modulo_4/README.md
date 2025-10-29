@@ -50,10 +50,12 @@ El objetivo fue **analizar patrones de rendimiento deportivo**, identificar fact
 ## 📊 Visualizaciones
 Algunas de las visualizaciones generadas en este módulo:  
 
-![Histograma de entrenamientos](./imagenes/mod4_histograma.png)  
-![Boxplot de peso](./imagenes/mod4_boxplot_peso.png)  
-![Regresión lineal](./imagenes/mod4_regresion.png)  
-![Heatmap de correlaciones](./imagenes/mod4_heatmap.png)  
+![Figura 1](modulo_4/imagenes/Figure_1.png)
+![Figura 2](modulo_4/imagenes/Figure_2.png)
+![Figura 3](modulo_4/imagenes/Figure_3.png)
+![Figura 4](modulo_4/imagenes/Figure_4.png)
+![Figura 5](modulo_4/imagenes/Figure_5.png)
+![Figura 6](modulo_4/imagenes/Figure_6.png)
 
 ---
 
