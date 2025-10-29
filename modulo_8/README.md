@@ -54,13 +54,16 @@ El objetivo fue aplicar **redes neuronales artificiales (ANN)** para modelar la 
 ---
 
 ## 📊 Visualizaciones
-- 🔹 Heatmap de correlación entre variables socioeconómicas.
-  (imagenes/Figure_1.png) 
-- 🔹 Curvas de pérdida (entrenamiento vs. validación) para distintas configuraciones.
-- (imagenes/Figure_2.png)
+
+- 🔹 Heatmap de correlación entre variables socioeconómicas.  
+  ![Figura 1](imagenes/Figure_1.png)
+
+- 🔹 Curvas de pérdida (entrenamiento vs. validación) para distintas configuraciones.  
+  ![Figura 2](imagenes/Figure_2.png)
+
 - 🔹 Tabla comparativa de configuraciones de la red neuronal.  
-   (imagenes/Figure_3.png)
----
+  ![Figura 3](imagenes/Figure_3.png)
+
 
 ## 📝 Reflexión Final
 
