@@ -47,9 +47,9 @@ El objetivo fue **evaluar estadísticamente si un nuevo programa de tutoría mej
 ## 📊 Visualizaciones
 Algunas de las visualizaciones generadas en este módulo:  
 
-![Histograma Grupo A](img/mod5_histograma_a.png)  
-![Histograma Grupo B](img/mod5_histograma_b.png)  
-![Boxplot comparativo](img/mod5_boxplot.png)  
+![Histograma Grupo A](imagenes/Figure_1.png)  
+![Histograma Grupo B](imagenes/Figure_2.png) 
+![Boxplot comparativo](imagenes/Figure_3.png)
 
 ## 📝 Reflexiones del Ejercicio
 - 📌 El diseño experimental puede mejorarse aumentando la muestra, midiendo el desempeño previo de los estudiantes y garantizando la asignación aleatoria.  
