@@ -51,7 +51,11 @@ El objetivo fue **analizar patrones de rendimiento deportivo**, identificar fact
 Algunas de las visualizaciones generadas en este módulo:  
 
 ![Figura 1](modulo_4/imagenes/Figure_1.png)
-![Figura 1](imagenes/Figure_1.png)
+![Figura 2](modulo_4/imagenes/Figure_2.png)
+![Figura 3](modulo_4/imagenes/Figure_3.png)
+![Figura 4](modulo_4/imagenes/Figure_4.png)
+![Figura 5](modulo_4/imagenes/Figure_5.png)
+![Figura 6](modulo_4/imagenes/Figure_6.png)
 
 ---
 
